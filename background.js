@@ -1,1 +1,1 @@
-var count = 0;
+//Nothing really here
